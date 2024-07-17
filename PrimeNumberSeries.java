@@ -23,7 +23,7 @@ public class PrimeNumberSeries {
             }
             if(count==0)
             {
-                System.out.println(i + " ");
+                System.out.print(i + " ");
             }
         }
     }
