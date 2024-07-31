@@ -11,4 +11,6 @@
 -            Pioneering
 -            Integrity
   
+#### Question 4. Which of the initiative is unique 'One Tata' platform to recognise top innovators among Tata companies?
+- ✨ Answer: TATA INNOVISTA
   
