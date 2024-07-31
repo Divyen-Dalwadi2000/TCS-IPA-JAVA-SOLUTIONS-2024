@@ -44,4 +44,6 @@
 - ✨ Answer: Favre-Leuba
 #### Question 15. Which of the following airline fall under Tata Group?
 - ✨ Answer: Air Asia , Vistara
+#### Question 16.  Which of the following when combine together form the journey of Embrace?
+- ✨ Answer: All  => Our Journey Our World , Our Footprint
 
