@@ -20,3 +20,6 @@
 |3.  Jaguar Land Rover           |c. Conserversing Urban Biodiversit|
 - ✨ Answer: 1-b 2-c 3-a
   
+#### Question 6. What percentage of profit of TATA Group goes to charitable public trust for  various initiatives?
+- ✨ Answer: 66
+  
