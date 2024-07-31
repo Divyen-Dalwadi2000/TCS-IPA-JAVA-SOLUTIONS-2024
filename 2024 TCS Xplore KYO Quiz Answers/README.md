@@ -57,3 +57,10 @@
 |4. South India                  |  d. Tourism, Sports & Energy |
 - ✨ Answer: 1-b, 2-d, 3-a, 4-c
 
+#### Question 19.  Which of the following statement is/are true about the very widely known "Tata Crucible"?   
+| Options | 
+| ------------------------------------------------------------------ |
+| 1. Toughest business quiz in India, conducted annually since 2004  | 
+| 2. Attracts sharpest, young corporate minds | 
+|  3. Grooms high performance into future leaders | 
+- ✨ Answer: only 1 & 2
