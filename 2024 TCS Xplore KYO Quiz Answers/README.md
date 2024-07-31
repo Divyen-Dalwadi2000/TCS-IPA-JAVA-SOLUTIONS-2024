@@ -48,4 +48,12 @@
 - ✨ Answer: All  => Our Journey Our World , Our Footprint
 #### Question 17. Tata Group and trust backs many sports & adventure foundation in India. Identify the sports/adventure activities in which they are making contributions:
 - ✨ Answer: Mountaineering , Kabaddi , Archery , Boxing
+#### Questions 18. Identify the correct matching sequences for various region-specific development initiative by Tata Trusts
+| Column A | Column B |
+| ------------------------------ | ------------------------------ | 
+|1. North India                  |  a. Migration & Water |
+|2. East India                   |  b. Livelihood, education & urban habitat |
+|3. West India                   |  c. Sanitation, healthcare & Literacy  |
+|4. South India                  |  d. Tourism, Sports & Energy |
+- ✨ Answer: 1-b, 2-d, 3-a, 4-c
 
