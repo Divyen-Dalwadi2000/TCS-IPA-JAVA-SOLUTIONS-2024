@@ -23,3 +23,5 @@
 #### Question 6. What percentage of profit of TATA Group goes to charitable public trust for  various initiatives?
 - ✨ Answer: 66
   
+#### Question 7. The brand name under which Infiniti Retail a Tata enterprise, India's leading consumer durables and electronics retailers, operates is :
+- ✨ Answer: Croma
