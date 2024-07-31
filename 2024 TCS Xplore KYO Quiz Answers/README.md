@@ -31,3 +31,6 @@
 
 #### Question 9. TCS provides technology to which of the following India's largest institutions?
 - ✨ Answer: Indian Railways, Passport Seva Kendra , India Post , National Highway Authority of India
+
+#### Question 10.  Which is famous jewellery brand who created the exquisite Padmaavat jewellery for the epic bollowood film Padmaavat?
+- ✨ Answer: Tanishq
