@@ -14,3 +14,11 @@
 #### Question 4. Which of the initiative is unique 'One Tata' platform to recognise top innovators among Tata companies?
 - ✨ Answer: TATA INNOVISTA
   
+#### Question 5. Identify the correct matching sequence which shows the various initiative taken by various Tata group companies which constitutes the web of life under Embrace?
+| Column A | Column B |
+| ------------------------------ | ------------------------------ |                                                
+|1. Indian Hotel Company Ltd     |a. Redeveloping the Atlantic forests in Brazil|
+|2. Tata Consultancy Services    |b. Protecting with the Pardhi|
+|3.  Jaguar Land Rover           |c. Conserversing Urban Biodiversit|
+- ✨ Answer: 1-b 2-c 3-a
+  
