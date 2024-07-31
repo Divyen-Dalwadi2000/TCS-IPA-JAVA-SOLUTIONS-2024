@@ -36,4 +36,6 @@
 - ✨ Answer: Tanishq
 #### Question 11. Which Tata company become the first listed Indian IT company to reach the $100 billion market capitalisation mark in 2018?
 - ✨ Answer: Tata Consultancy Services
+#### Question 12. Which of the following statement is true about the initiative 'Tata Dialogue'?
+- ✨ Answer: Open Digital Platform for all employees , Connect and engage with senior management
 
