@@ -38,4 +38,6 @@
 - ✨ Answer: Tata Consultancy Services
 #### Question 12. Which of the following statement is true about the initiative 'Tata Dialogue'?
 - ✨ Answer: Open Digital Platform for all employees , Connect and engage with senior management
+#### Question 13. Tata Group Companies are spread across which of the following domains:
+- ✨ Answer: Consumer & Retail , Communication & ITeS , Manufacturing
 
