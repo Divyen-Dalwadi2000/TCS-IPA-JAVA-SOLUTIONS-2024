@@ -28,3 +28,6 @@
 
 #### Question 8. Which of the following companies come under Tata Group "IT' vertical?
 - ✨ Answer: TATA CONSULTANCY SERVICES , TATA ELXSI
+
+#### Question 9. TCS provides technology to which of the following India's largest institutions?
+- ✨ Answer: Indian Railways, Passport Seva Kendra , India Post , National Highway Authority of India
