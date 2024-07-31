@@ -34,3 +34,6 @@
 
 #### Question 10.  Which is famous jewellery brand who created the exquisite Padmaavat jewellery for the epic bollowood film Padmaavat?
 - ✨ Answer: Tanishq
+#### Question 11. Which Tata company become the first listed Indian IT company to reach the $100 billion market capitalisation mark in 2018?
+- ✨ Answer: Tata Consultancy Services
+
