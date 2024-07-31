@@ -64,3 +64,6 @@
 | 2. Attracts sharpest, young corporate minds | 
 |  3. Grooms high performance into future leaders | 
 - ✨ Answer: only 1 & 2
+
+#### Question 20. India's first pilot youthful aspiration led to the formation of Air India International?
+- ✨ Answer: JRD Tata
