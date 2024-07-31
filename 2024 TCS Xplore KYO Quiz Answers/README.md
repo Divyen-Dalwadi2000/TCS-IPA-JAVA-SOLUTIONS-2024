@@ -42,4 +42,6 @@
 - ✨ Answer: Consumer & Retail , Communication & ITeS , Manufacturing
 #### Question 14.  Which of the following is the world's second oldest watch brand that was acquired by TITAN?
 - ✨ Answer: Favre-Leuba
+#### Question 15. Which of the following airline fall under Tata Group?
+- ✨ Answer: Air Asia , Vistara
 
