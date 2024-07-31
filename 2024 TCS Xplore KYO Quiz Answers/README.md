@@ -46,4 +46,6 @@
 - ✨ Answer: Air Asia , Vistara
 #### Question 16.  Which of the following when combine together form the journey of Embrace?
 - ✨ Answer: All  => Our Journey Our World , Our Footprint
+#### Question 17. Tata Group and trust backs many sports & adventure foundation in India. Identify the sports/adventure activities in which they are making contributions:
+- ✨ Answer: Mountaineering , Kabaddi , Archery , Boxing
 
