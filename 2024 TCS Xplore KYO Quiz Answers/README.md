@@ -40,4 +40,6 @@
 - ✨ Answer: Open Digital Platform for all employees , Connect and engage with senior management
 #### Question 13. Tata Group Companies are spread across which of the following domains:
 - ✨ Answer: Consumer & Retail , Communication & ITeS , Manufacturing
+#### Question 14.  Which of the following is the world's second oldest watch brand that was acquired by TITAN?
+- ✨ Answer: Favre-Leuba
 
